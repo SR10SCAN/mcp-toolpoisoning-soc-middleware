@@ -2,7 +2,7 @@
 
 Código, dataset y resultados del artículo:
 
-> [Nombre Apellido] (2026). *Framework de seguridad middleware contra el envenenamiento de herramientas en sistemas multiagente basados en LLM con Model Context Protocol en un Centro de Operaciones de Seguridad.* Manuscrito preparado para *Applied Sciences* (MDPI).
+> [SR10SCAN] (2026). *Framework de seguridad middleware contra el envenenamiento de herramientas en sistemas multiagente basados en LLM con Model Context Protocol en un Centro de Operaciones de Seguridad.* Manuscrito preparado para *Applied Sciences* (MDPI).
 
 Security middleware against MCP tool poisoning in LLM-based multi-agent SOC pipelines: lab, synthetic dataset, and pre-test/post-test results (qwen2.5:14b, 900 runs).
 
