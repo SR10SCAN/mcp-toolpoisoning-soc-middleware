@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.key
+resultados/*
+!resultados/.gitkeep
+.ipynb_checkpoints/
+resultados_*/
+!resultados_articulo/

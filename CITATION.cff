@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si usas este código o dataset, cita el artículo asociado."
+title: "Middleware de seguridad contra tool poisoning en sistemas multiagente LLM con MCP (SOC)"
+authors:
+  - family-names: "[Apellido]"
+    given-names: "[Nombre]"
+    affiliation: "[Universidad]"
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com/[usuario]/mcp-toolpoisoning-soc-middleware"
+keywords: [MCP, tool poisoning, prompt injection, LLM agents, SOC, middleware]
